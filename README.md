@@ -1,8 +1,3 @@
-# DATA 300 – Data Exploration and Wrangling with Pandas
-
-**Author:** Skyler Futrell  
-**Course:** DATA 300 – Week 4 Assignment
-
 ---
 
 ## Overview
